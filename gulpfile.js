@@ -61,7 +61,7 @@ gulp.task('styles',['compileSass'], function(){
 gulp.task('images', function(){
     return gulp.src('images/*')
 	.pipe(imagemin())
-	.pipe(gulp.dest('dist/img'));
+	.pipe(gulp.dest('dist/content'));
 
 });
 

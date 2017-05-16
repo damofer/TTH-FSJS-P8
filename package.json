@@ -9,10 +9,13 @@
   "author": "David Mogollon",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^7.0.1",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
     "gulp-clean-css": "^3.3.1",
     "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^3.0.1",
     "gulp-imagemin": "^3.2.0",
     "gulp-livereload": "^3.8.1",
     "gulp-rename": "^1.2.2",
